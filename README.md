@@ -9,3 +9,6 @@ Using finance, Seaborn, Matplotlib, and the LSTM method, stock information will 
 5. How much value do we put at risk by investing in a particular stock?
 6. How can we attempt to predict future stock behavior?
    
+## Steps
+### Getting Data
+Data will be imported from Yahoo Finance using yfinance library. 
