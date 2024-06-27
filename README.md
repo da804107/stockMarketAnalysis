@@ -12,3 +12,19 @@ Using finance, Seaborn, Matplotlib, and the LSTM method, stock information will 
 ## Steps
 ### Getting Data
 Data will be imported from Yahoo Finance using yfinance library. 
+
+###IGNORE
+
+Requesting stock information with pandas 
+and analyzing basic attributes of stock 
+are covered in this file
+
+to create a vm in terminall run:
+python3 -m venv myenv
+souce myenv/bin/activate
+
+to install libraries in terminal run:
+pip install {library}
+
+Project link:
+https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
